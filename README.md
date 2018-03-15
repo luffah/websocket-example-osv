@@ -24,9 +24,10 @@ Start the server :
 nodejs websocket-server.js  
 ```
 
+
+
 # Links
 https://www.flossmanualsfr.net/camposv18 : Global documentation of the event which hosted the project
-https://elinux.org/OSVehicle : 
+https://elinux.org/OSVehicle : Project for conceiving an open source vehicle
 https://github.com/rzr/rzr-example/tree/sandbox/rzr/devel/ws/master : code which serve as a basis for the client <-> server 
-
-
+http://bernii.github.io/gauge.js/ : The gauge visualizer used by web client
