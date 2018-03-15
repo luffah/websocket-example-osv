@@ -24,7 +24,15 @@ Start the server :
 nodejs websocket-server.js  
 ```
 
+# Use client side
 
+Enter configuration in `js/vehicle_monitor.js`
+```
+WEB_SOCKET = "ws://<vehicle_ip>:1337/";
+gauge.maxValue = 20; // to set max gauge (speed) value
+```
+
+Use the front-end : `index.html`
 
 # Links
 https://www.flossmanualsfr.net/camposv18 : Global documentation of the event which hosted the project
