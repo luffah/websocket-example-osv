@@ -14,7 +14,7 @@ Currently it only show speed of a vehicle using network (Wifi - intended to be u
 
 # Start the server
 
-It requires WebSocket with Node.js (https://nodejs.org/en/) (On Raspbian : `sudo apt install -y nodejs`).
+It requires WebSocket with [Node.js](https://nodejs.org/en/) (On Raspbian : `sudo apt install -y nodejs`).
 ```
 npm install websocket
 ```
